@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🌱 I’m currently in a 'high-performance computing' master's programme  in [Chalmers University of Technology](https://www.chalmers.se/en/)
+- 🏢: I previously worked as a data analyst at [Didi](https://www.didiglobal.com/) and [Meituan](https://www.meituan.com/en-US/about-us).
+- 🤔 My interests include Data-driven solutions, AI-related developments, large model optimization, and practical applications (agents).
+- 👯 In addition, I am very passionate about hiking, road trips, rock climbing, and running.
+- 💬 Ask me about anything, I am happy to help.
 <!--
 **yanptang/yanptang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
